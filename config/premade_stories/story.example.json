@@ -1,0 +1,16 @@
+{
+    "title": "title",
+    "situation": "example situation. Make a choice!",
+    "options": [
+        {
+            "prompt": "option 1",
+            "result": "example",
+            "options": [
+                {
+                    "prompt": "example",
+                    "result": "another example"
+                }
+            ]
+        }
+    ]
+}
