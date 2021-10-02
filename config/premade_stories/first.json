@@ -1,0 +1,20 @@
+{
+    "title": "the poopoo peepee man: a story of violence",
+    "situation": "It was a dark and stormy night. You're lying down in bed playing pp bot. Suddenly, you hear a sound from outside. What do you do?",
+    "options": [
+        {
+            "prompt": "ignore it",
+            "result": "You ignore the strange sounds and continue playing pp bot."
+        },
+        {
+            "prompt": "look out the window",
+            "result": "You get out of bed and look out your window. You see a dead body - Covered in shit. What now!?",
+            "options": [
+                {
+                    "prompt": "call the police",
+                    "result": "> Hello? 911? There's a dead body! I'm scared!\n> police: Sir.. Is it covered in poopoo..?\n> Y- Yes, how did you know?\n> police: \\*hangs up\\*\n'Oh shit', realise. 'The poopoo peepee man has taken another victim'."
+                }
+            ]
+        }
+    ]
+}
